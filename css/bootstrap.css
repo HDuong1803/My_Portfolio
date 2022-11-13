@@ -63,7 +63,7 @@ body {
   color: #6c757d;
   text-align: left;
   cursor:url(mouse-f1.png), auto;
-  background-image: url(./background.jpg);
+  background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -174,7 +174,7 @@ a {
 
 a:hover {
   color: #00b4d9;
-  cursor:url(/assets/image/items/mouse-f2.png), auto;
+  cursor:url(mouse-f2.png), auto;
 }
 
 a:not([href]):not([tabindex]) {
