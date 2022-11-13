@@ -62,7 +62,7 @@ body {
   line-height: 1.7;
   color: #6c757d;
   text-align: left;
-  cursor:url(./mouse-f1.png), auto;
+  cursor:url(mouse-f1.png), auto;
   background-image: url(./background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
