@@ -62,8 +62,8 @@ body {
   line-height: 1.7;
   color: #6c757d;
   text-align: left;
-  cursor:url(/assets/image/items/mouse-f1.png), auto;
-  background-image: url(/assets/image/items/background.jpg);
+  cursor:url(./mouse-f1.png), auto;
+  background-image: url(./background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
